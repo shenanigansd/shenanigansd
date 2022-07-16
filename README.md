@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Bradley
+## Hi, I'm Bradley 👋
 
 I'm Bradley, a fullstack Microsoft engineer and a fullstack software engineer!
 
