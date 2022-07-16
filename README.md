@@ -1,6 +1,6 @@
 ## Hi, I'm Bradley 👋
 
-I'm Bradley, a fullstack Microsoft engineer and a fullstack software engineer!
+I'm Bradley, a fullstack software engineer and a fullstack Microsoft engineer!
 
 I've spent the last several years being a "one-man band" supporting hundreds of users. I've spent my time doing
 everything from developing our own line of business apps to fixing printers to improving automation and security posture
