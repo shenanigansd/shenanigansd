@@ -6,7 +6,7 @@ I've spent the last several years being a "one-man band" supporting hundreds of 
 everything from developing our own line of business apps to fixing printers to improving automation and security posture
 through Microsoft's Intune and Defender to helping carry boxes around - and much more!
 
-Most of my Open Source work is done in organizations -
+Most of my open source work is done in organizations -
 
 - @darbiadev - My main project namespace, pretty much everything I work on goes here.
 - @python-discord - When I was starting out, all I had was Google, and it was really frustrating not to have anyone to
