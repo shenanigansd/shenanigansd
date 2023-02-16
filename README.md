@@ -1,15 +1,13 @@
-## Hi, I'm Bradley 👋
+## The dog's name is Gracie
 
-Most of my open source work is done in organizations -
+Of course you can pet her! 
 
-- @darbiadev - My main project namespace, pretty much everything I work on goes here.
-- @python-discord - When I was starting out, all I had was Google, and it was really frustrating not to have anyone to
-  ask questions to. I am now a volunteer "Helper" on this Discord server, where I spend time helping walk people with
-  all levels of experience through whatever problems they're stuck on.
-- @Ukraine-Relief-Efforts - I help manage projects and organize development efforts for people that are working on
-  projects to provide humanitarian aid and possibly lifesaving information to the Ukrainian people.
-- @letsbuilda - This is a bit of a random one, this is where I build a random thing and want to keep it somewhere. I'm
-  hoping to start documenting these projects to be tutorial-like, where you can see how to get started building one of
-  your own.
-- @reynoldsf - This one is for my family, it houses their "learn to code" repos and the documentation for how we set up
-  dedicated servers for our video games.
+Hi, my name is Bradley. 
+
+I work as a software engineer, mostly building APIs and automations.
+
+In my free time I hang out at @python-discord, where I am a volunteer teacher, event-running assistant, and devops team member.
+
+I also created @letsbuilda as a way to help bring people together for group projects to help them learn about collaboration and explore software development, GitHub, packaging, publishing, and more!
+
+I was the infrastructure lead for @Ukraine-Relief-Efforts, where our humanitarian projects introduced us to all kinds of people, like the _International Commission on Missing Persons_, who invited us to talk about collaborating our efforts. We were even [internationally recognized by the European Union!](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/open-source-help-ukrainian-asylum-seekers)
